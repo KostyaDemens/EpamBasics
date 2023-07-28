@@ -1,4 +1,4 @@
-package org.example.linear_programs;
+package org.example.branching;
 
 /*
 Given two angles of a triangle. Does it exist? And will it be triangular?
